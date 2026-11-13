@@ -38,7 +38,7 @@ My background is in systems and network administration, with a growing focus on 
 
 ---
 
-### 🚀 Featured Project — OpenHVX
+### 🚀 Featured Project - OpenHVX
 
 **[OpenHVX](https://openhvx.org)** is an open-source Infrastructure as a Service (IaaS) control plane built specifically for Microsoft Hyper-V.
 
